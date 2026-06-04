@@ -7,6 +7,7 @@ Ai Engineer + solid Ml fundaments.
 
 ##Current focus
 -🔢 Mathematics: Currently starting the book "Mathematics for Machine Learning (https://mml-book.github.io/book/mml-book.pdf)
+
 -🛠️ Project: industrial-docs-rag
 
 ##Index
