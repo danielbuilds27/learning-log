@@ -4,7 +4,7 @@ Status: 📌 starting - ⏳ in progress - ✅ finished
 
 ##Mathematics
 -⏳ Mathematics for machine Learning (Deisenroth) - https://mml-book.github.io/book/mml-book.pdf
--⏳ 3Blue1Brown - Essence of Linear Algebra / Calculus
+-⏳ 3Blue1Brown - Essence of Linear Algebra / Calculus - (https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 -📌 StatQuest (Youtube)
 
 ##Programming
