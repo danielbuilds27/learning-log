@@ -3,15 +3,16 @@
 Status: 📌 starting - ⏳ in progress - ✅ finished
 
 ##Mathematics
--⏳ Mathematics for machine Learning (Deisenroth) - https://mml-book.github.io/book/mml-book.pdf
--⏳ 3Blue1Brown - Essence of Linear Algebra / Calculus - (https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+-📌 Mathematics for machine Learning (Deisenroth) - https://mml-book.github.io/book/mml-book.pdf
+-📌 3Blue1Brown - Essence of Linear Algebra / Calculus - (https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 -📌 StatQuest (Youtube)
 
 ##Programming
 -📌 SQL - SQLBolt
--📌 Python - Automate the Boring Stuff with Python
+-⏳ ITSchool Python for Machine Learning(2 Months of Python)
 
 ## Machine Learning
+-📌 ITSchool Machine Learning Certificate (5 months)
 -📌 Andrew Ng - ML Specialization (coursera/deeplearning.AI)
 -📌 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)
 -📌 Kaggle competition - Titanic
